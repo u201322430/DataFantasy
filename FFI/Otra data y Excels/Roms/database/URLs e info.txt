@@ -1,0 +1,130 @@
+https://finalfantasy.fandom.com/wiki/Collections
+
+Inglés - Español
+Name	Image	Background	HP	Atk	Def	MDef	Wk	Res	Gil	EXP
+
+
+https://guides.gamercorner.net/ff-ps/monsters/
+
+Inglés - Español
+NameR	HP	Gil	Exp	Dmg	Hits	Acc	Status	Crit	Abs	Eva	MagDef	RunLev	Magic	SpAtt	Family	Weak	Resist
+
+
+http://www.fforigins.com/ff1/enemies/index.html
+
+PIC	NAMER	NAME	HP	AP	EXP	GOLD	CATEG	WEAK	RES	SPELLS/ABILITIES
+
+
+https://gamefaqs.gamespot.com/nes/522595-final-fantasy/faqs/23408
+
+HP	Exp	Gold	AvrAtt	SpAtt	Weak	Res
+
+
+*Hit
+The number of hit chances the monster gets whenever it attacks; each successful hit will deal full damage and can be a critical hit
+*Hit %
+The hit % of the monster's attacks; the base chance to hit is approximately 84% plus half of the monster's hit %, modified by the target's evade %
+*Status
+La dolencia de estado, si la hay, que pueden infligir los ataques de este monstruo; la probabilidad base de aflicción es del 50%, reducida en un 1% por cada dos puntos de defensa mágica que tenga el objetivo; tenga en cuenta que, debido a un error, las fallas después del primer golpe del ataque tienen la posibilidad de infligir una dolencia de estado a pesar de no golpear
+*Crit
+La posibilidad de que cada uno de los ataques de este monstruo sea un golpe crítico (a menos que el ataque falle); los golpes críticos agregan el doble de la calificación de daño del monstruo a su daño normal (este daño adicional ignora la absorción)
+*Abs
+Cada golpe físico que reciba el monstruo tendrá su daño reducido en esta cantidad
+*Eva
+La probabilidad básica del monstruo de evadir cualquier ataque físico dado; cada dos puntos de evadir% resulta en un 1% más de posibilidades de evadir ataques
+*MagDef
+Por cada dos puntos de defensa mágica, el monstruo tiene un 1% más de posibilidades de resistir cualquier hechizo.
+*Magic
+La posibilidad de que el monstruo use un hechizo mágico en su turno; cada monstruo que puede lanzar hechizos tiene un ciclo específico de hechizos que siempre usan en el mismo orden (consulte la página de monstruos para obtener más detalles)
+*SpAtt
+La posibilidad de que el monstruo use un ataque especial en su turno; los monstruos con múltiples ataques especiales tienen un ciclo específico de ataques especiales que siempre usan en el mismo orden (consulte la página de monstruos para obtener más detalles)
+
+***NOTAS IMPORTANTES***
+NameR de Jefes duplicados BD2 reemplazados con "name 2"
+BD1 Mind Flare X - BD2 Mindflayer V
+
+
+Final
+
+1	1	1	1	2	1,/2	2	1	1	2	2	2	2	2	2	1	1	1
+Name	HP	Atk	Def	Magic	MDef%	SpAtt	Weak	Res	Hits	Acc	Status	Crit	Abs	Eva	Gil	Exp	Zona	Int	Agi
+
+Status --> Effect
+Background --> Zone
+Wk --> Weakness
+Res
+...
+
+
+===== Final Fantasy I =====:
+Agilidad:
+La agilidad aumenta la precisión y la evasión de un personaje en 2 por cada punto de agilidad obtenido al subir de nivel.
+Cada punto de Agilidad obtenido como resultado del equipo o el elemento Speed Plus solo aumentará la Precisión y la Evasión en 1.
+Cuanto mayor sea la Agilidad de un personaje, más probabilidades tendrá de hacer el primer movimiento en un turno.
+
+
+Tener un par de puntos de agilidad más que un monstruo no garantiza un primer movimiento exitoso en cada turno; solo aumenta las posibilidades.
+
+Fuerza, Agilidad, Inteligencia, Vitalidad o Suerte. +1
+hay un 25% de probabilidad de ganando un punto a esa estadística.
+
+===== Final Fantasy I y II: Dawn of Souls =====:
+La Agilidad afecta la Puntería (Accuracy) y la Evasión
+
+dif_Agi = NewAgi - OldAgi
+
+===============================================
+Ini_Pun: Puntos Iniciales de Puntería
+Mul_Lvl_Pun: Multiplicador de Lvl en Puntería
+Ini_Eva: Puntos Iniciales de Evasión
+
+Ini_Pun(    Guerrero: 7, Ladrón:10, MagBla: 4, MagNeg: 6, Monje: 5, MagRoj: 9)
+Mul_Lvl_Pun(Guerrero: 3, Ladrón: 5, MagBla: 1, MagNeg: 2, Monje: 3, MagRoj: 3)
+
+Ini_Eva(    Guerrero:45, Ladrón:43, MagBla:48, MagNeg:48, Monje:45, MagRoj:43)
+
+Puntería = Punteria + dif_Agi + 3    X
+          Ini_Pun         Mul_Lvl_Pun
+Puntería =  [7] + AGI + Lvl * [3]    V Guerrero
+Puntería = [10] + AGI + Lvl * [5]    V Ladrón
+Puntería =  [4] + AGI + Lvl * [1]    V MagBla
+Puntería =  [6] + AGI + Lvl * [2]    V MagNeg
+Puntería =  [5] + AGI + Lvl * [3]    V Monje
+Puntería =  [9] + AGI + Lvl * [3]    V MagRoj
+
+
+Evasión = Evasión + (2 * dif_Agi)    X
+        Ini_Eva
+Evasión = [45] + 2 * AGI             V Guerrero
+Evasión = [43] + 2 * AGI             V Ladrón
+Evasión = [48] + 2 * AGI             V MagBla
+Evasión = [48] + 2 * AGI             V MagNeg
+Evasión = [45] + 2 * AGI             V Monje
+Evasión = [43] + 2 * AGI             V MagRoj
+===============================================
+
+El HP es afectado por la Resistencia (Stamina o Vitality)
+
+Guerrero-Caballero
+HP = HP + 65%(+ rango(22,25)) + trunc(Res/4) + 1
+Ladrón-Ninja
+HP = HP + 50%(+ rango(21,25)) + trunc(Res/4) + 1
+Mago Blanco-Brujo Blanco
+HP = HP + 45%(+ rango(22,24)) + trunc(Res/4) + 1
+Mago Negro-Brujo Negro
+HP = HP + 60%(+ rango(20,25)) + trunc(Res/4) + 1
+
+HP = Ini_HP + trunc(Res/4) * Lvl + 
+
+
+En promedio:
+	+1	+2	+3	+4	+5
+Conteo	4	5	9	1	0
+Promedio = 2.368421 ~ 2.5 de entre 5 = 50% 
+
+Si ahcemos que uno aumente si o si
+prob = 0.342105
+(prob*4)+1 = 2.368421
+
+prob = 0.375
+(prob*4)+1 = 2.5

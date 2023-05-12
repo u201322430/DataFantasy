@@ -1,0 +1,129 @@
+Name|HP|Atk|Def|Magic|MDef(%)|Weakness|Resist|Hits|Acc|Effect|Crit|Abs|Eva|Gil|EXP|Zone
+Goblin|8|5|5|-|8.0|None|None|1|85|-|0.01|4|3|6|6|Grass
+Goblin Guard|16|8|6|-|11.5|None|None|1|86|-|0.01|6|5|18|18|Grass
+Wolf|20|8|0|-|14.0|None|None|1|86|-|0.01|0|18|6|24|Grass
+Crazy Horse|64|10|2|-|20.0|None|None|2|92|-|0.01|2|11|15|63|Grass
+Skeleton|10|10|0|-|8.5|Fire, Dia|Ice, Death, Confusion, Paralysis|1|85|-|0.01|0|6|3|9|Temple of Chaos 1
+Black Widow|28|10|0|-|14.0|None|None|1|87|-|0.01|0|15|8|30|Temple of Chaos 1
+Gigas Worm|56|17|8|-|20.0|Fire|None|1|91|-|0.01|8|12|15|63|Temple of Chaos 1
+Warg Wolf|72|14|0|-|23.0|None|None|1|93|-|0.01|0|27|22|93|Temple of Chaos 1
+Werewolf|68|14|6|-|22.5|None|None|1|92|Poison|0.01|6|21|67|135|Temple of Chaos 1
+Zombie|20|10|0|-|12.5|Fire, Dia|Quake, Ice, Death, Confusion, Paralysis|1|86|-|0.01|0|3|12|24|Temple of Chaos 1
+Ghoul|48|8|6|-|18.0|Fire, Dia|Ice, Death, Confusion, Paralysis|3|90|Paralysis|0.01|6|6|50|93|Temple of Chaos 1
+Garland|106|15|10|-|32.0|None|None|1|97|-|0.01|10|6|250|130|Temple of Chaos 1
+Cobra|56|6|6|-|23.0|None|None|1|91|Poison|0.01|6|15|50|123|Forest 1
+Ogre|100|18|10|-|32.5|None|None|1|96|-|0.01|10|9|195|195|Forest 1
+Ogre Chieftain|132|23|14|-|35.5|None|None|1|100|-|0.01|14|15|300|282|Forest 1
+Lizard|92|18|12|-|27.5|None|None|1|95|-|0.05|12|12|50|153|Forest 2
+Pirate|6|8|0|-|7.5|None|None|1|85|-|0.01|0|6|40|40|Pravoka
+Sahagin|28|10|4|-|14.0|Bolt|Quake, Fire|1|87|-|0.01|4|36|30|30|Boat
+Sahagin Chief|64|15|8|-|23.0|Bolt|Quake, Fire|1|92|-|0.01|8|39|105|105|Boat
+Privateer|50|14|6|-|18.5|None|Quake|1|90|-|0.01|6|12|120|60|Boat
+Shark|120|22|0|-|35.0|Bolt|Quake, Fire|1|99|-|0.01|0|36|66|267|Boat
+Goggler|4|10|0|-|7.0|Bolt|Quake, Fire|1|85|-|0.01|0|42|10|42|Boat
+Tarantula|64|5|12|-|23.0|None|None|1|92|Poison|0.01|12|12|50|141|Forest 2
+Ghast|56|8|10|-|20.0|Fire, Dia|Ice, Death, Confusion, Paralysis|3|91|Paralysis|0.01|10|23|117|117|Forest 2
+Scorpion|84|22|10|-|27.5|None|None|2|94|Poison|0.01|10|27|70|225|Marsh Cave
+Shadow|50|10|0|-|18.5|Fire, Dia|Quake, Ice, Death, Confusion, Paralysis|1|90|Darkness|0.01|0|18|45|90|Marsh Cave
+Green Slime|24|1|255|-|18.0|Ice, Fire|Quake, Bolt, Death, Confusion, Paralysis|1|84|Poison|0.01|255|0|20|84|Marsh Cave
+Crawler|84|1|8|-|25.5|None|None|8|94|Paralysis|0.01|8|21|200|186|Marsh Cave
+Gray Ooze|76|30|7|-|27.5|Bolt|Quake, Ice, Fire, Death, Confusion, Paralysis|1|93|-|0.01|7|2|70|255|Marsh Cave
+Gargoyle|80|12|8|-|26.5|None|Quake|4|94|-|0.01|8|23|80|132|Marsh Cave
+Bloodbones|144|26|12|-|38.0|Fire, Dia|Ice, Death, Confusion, Paralysis|1|101|-|0.01|12|21|378|378|Marsh Cave
+Piscodemon|84|30|16|-|49.0|None|Ice, Fire, Confusion, Paralysis|2|94|-|0.01|16|33|300|276|Marsh Cave
+Astos|420|26|40|0.75|85.0|None|None|1|104|-|0.01|40|39|2000|2250|Western Keep
+Mummy|80|30|20|-|30.0|Fire, Dia|Ice, Death, Confusion, Paralysis|1|94|Sleep|0.01|20|12|300|300|Terra Cavern 1
+Wraith|86|22|4|-|26.0|Fire, Dia|Quake, Ice, Death, Confusion, Paralysis|1|95|Paralysis|0.01|4|45|231|231|Western Keep
+Anaconda|80|22|10|-|28.0|None|None|1|94|-|0.16|10|18|50|165|Marsh Cave
+Hyenadon|120|22|4|-|38.0|None|None|1|99|-|0.01|4|24|72|288|Forest 1
+Lesser Tiger|132|22|8|-|42.5|None|None|2|100|-|0.13|8|24|108|438|Titan's Cave
+Minotaur|164|22|4|-|47.5|None|None|2|104|-|0.01|4|24|489|489|Terra Cavern 1
+Hill Gigas|240|38|12|-|60.0|None|None|1|113|-|0.01|12|24|879|879|Terra Cavern 1
+Gnoma|288|66|20|-|65.0|Fire|Quake, Bolt, Ice, Death, Confusion, Paralysis|1|119|-|0.01|20|9|768|1536|Terra Cavern 1
+Troll|184|24|12|-|50.0|Fire|None|3|106|-|0.01|12|24|621|621|Terra Cavern 1
+Wight|52|20|12|-|22.5|Fire, Dia|Ice, Death, Confusion, Paralysis|1|90|Paralysis|0.01|12|21|150|150|Terra Cavern 1
+Ochre Jelly|76|32|6|-|27.5|Ice, Fire|Quake, Bolt, Death, Confusion, Paralysis|1|93|-|0.01|6|3|70|252|Terra Cavern 1
+Cockatrice|50|1|4|-|23.5|None|Quake|1|89|Stone|0.01|4|36|200|186|Terra Cavern 1
+Vampire|156|76|24|-|37.5|Fire, Dia|Quake, Ice, Death, Confusion, Paralysis|1|103|Paralysis|0.01|24|36|2000|1200|Terra Cavern 1
+Ogre Mage|144|23|10|0.5|40.0|None|Quake|1|101|-|0.01|10|27|723|723|Terra Cavern 1
+Sphinx|228|23|12|-|57.5|None|Quake|3|112|-|0.01|12|60|1160|1160|Terra Cavern 1
+Lich|1200|40|40|0.75|60.0|Fire, Dia|Ice, Death, Confusion, Paralysis|1|108|Paralysis|0.01|40|12|3000|2200|Terra Cavern 2
+Centipede|222|39|20|-|58.0|None|None|1|111|Poison|0.01|20|24|300|1194|Mt. Gulg 1
+Piranha|92|22|0|-|34.0|Bolt|Quake, Fire|1|95|-|0.01|0|36|20|240|River 1
+Red Piranha|172|37|20|-|41.5|None|None|1|105|-|0.01|20|36|46|546|River 2
+Crocodile|184|42|16|-|51.5|Bolt|Quake, Fire|2|106|-|0.01|16|24|900|816|River 1
+White Croc|288|56|20|-|71.5|Bolt|Quake, Fire|2|119|-|0.01|20|24|2000|1890|River 2
+Ochu|208|20|24|-|58.0|Bolt|Quake, Fire|3|109|Poison|0.01|24|12|102|1224|River 1
+Neochu|344|35|32|-|85.0|None|None|3|126|Poison|0.01|32|12|500|3189|River 2
+Hydra|212|30|14|-|58.0|None|None|3|110|-|0.01|14|18|150|915|River 1
+Horned Devil|94|10|32|0.5|63.5|None|Quake, Ice, Fire|4|96|-|0.01|32|36|387|387|Mt. Gulg 1
+Pyrolisk|44|20|4|-|22.5|Ice|Quake, Fire|1|89|-|0.01|4|36|500|423|Mt. Gulg 1
+Pyros|276|50|20|-|65.0|Ice|Quake, fire, Death, Confusion, Paralysis|1|118|-|0.01|20|21|800|1620|Mt. Gulg 1
+Fire Hydra|182|20|14|-|51.5|Ice|Fire|3|106|-|0.01|14|18|400|1215|Mt. Gulg 1
+Lava Worm|280|50|31|-|71.5|Ice|Quake, Fire|1|118|-|0.01|31|2|400|1671|Mt. Gulg 1
+Hellhound|192|30|8|-|51.5|Ice|None|1|107|-|0.01|8|24|600|1182|Mt. Gulg 1
+Fire Lizard|296|31|18|-|71.5|Ice|Fire|2|120|-|0.01|18|18|1200|2472|Mt. Gulg 1
+Fire Gigas|300|73|20|-|67.5|Ice|Fire|1|125|-|0.01|20|24|1506|1506|Mt. Gulg 1
+Red Dragon|248|75|30|-|100.0|None|Quake, Fire|1|114|-|0.01|30|48|4000|2904|Mt. Gulg 1
+Marilith|1440|40|50|0.38|91.5|Paralysis|Bolt, Ice, Fire|6|115|-|0.01|50|24|3000|2475|Mt. Gulg 2
+White Dragon|200|53|8|-|98.0|Bolt, Fire|Quake, Ice|1|108|-|0.01|8|60|2000|1701|Ice Cavern
+Winter Wolf|92|25|0|-|27.5|Fire|Ice|1|95|-|0.01|0|27|200|402|Ice Cavern
+Mindflayer|112|1|12|-|93.5|None|None|3|98|KO|0.01|12|24|999|822|Ice Cavern
+Ice Gigas|336|60|16|-|75.0|Fire|Ice|1|122|-|0.01|16|24|1752|1752|Ice Cavern
+Specter|114|40|12|-|33.5|Fire, Dia|Quake, Ice, Death, Confusion, Paralysis|1|98|Paralysis|0.01|12|54|432|432|Ice Cavern
+Remora|320|73|24|-|92.5|None|Ice, Fire|1|123|-|0.01|24|24|1000|2244|Ice Cavern
+Dark Wizard|105|26|40|0.5|85.0|None|None|1|97|-|0.01|40|39|1095|1095|Ice Cavern
+Evil Eye|162|30|30|0.63|46.0|None|Quake|1|104|-|0.01|30|6|3225|3225|Ice Cavern
+Desert Baretta|352|98|48|-|78.0|None|None|1|127|-|0.01|48|24|1|2610|Desert
+Sabretooth|200|24|8|-|53.0|None|None|2|108|-|0.35|8|21|500|843|Grass
+Wyvern|212|30|12|-|57.5|None|Quake|1|110|Poison|0.01|12|48|50|1173|Forest 1
+Wyrm|260|40|22|-|65.5|None|Quake|1|116|-|0.01|22|30|502|1218|Forest 1
+Manticore|164|22|8|-|47.5|None|Quake|2|104|-|0.01|8|36|650|1317|Forest 1
+Baretta|256|60|38|-|65.0|None|None|3|115|-|0.01|38|28|300|1428|Forest 1
+Basilisk|196|30|20|-|45.5|None|None|1|110|-|0.01|20|12|658|1977|Marsh
+Allosaurus|480|65|10|-|100.0|None|None|1|150|-|0.01|10|30|502|3387|Forest 1
+Weretiger|160|30|16|-|46.5|None|None|2|103|Poison|0.01|16|24|780|780|Marsh
+Sand Worm|200|46|14|-|51.5|None|Quake|1|108|-|0.01|14|31|900|2683|Desert
+Necrotaur|224|40|14|-|58.0|Fire, Dia|Ice, Death, Confusion, Paralysis|1|111|-|0.01|14|18|1050|1050|Citadel of Trials
+King Mummy|188|43|24|-|47.5|Fire, Dia|Ice, Death, Confusion, Paralysis|1|107|Sleep|0.01|24|12|1000|984|Citadel of Trials
+Medusa|68|20|10|-|27.5|None|None|1|92|Poison|0.01|10|18|699|699|Citadel of Trials
+Rakshasa|110|20|30|0.75|31.0|None|Quake, Bolt, Ice, Fire, Death, Confusion, Paralysis|3|98|-|0.01|30|30|800|603|Citadel of Trials
+Clay Golem|176|64|7|0.25|47.0|None|Quake, Ice, Fire, Death, Confusion, Paralysis|1|105|Poison|0.01|7|14|800|1257|Citadel of Trials
+Nightmare|200|30|24|-|50.0|Ice|Quake, fire, Death, Confusion, Paralysis|3|108|-|0.01|24|66|700|1272|Citadel of Trials
+Dragon Zombie|268|56|30|-|67.5|Fire, Dia|Quake, Ice, Death, Confusion, Paralysis|1|117|Paralysis|0.01|30|12|999|2331|Citadel of Trials
+Sahagin Prince|204|47|20|-|50.5|Bolt|Quake, Fire|1|109|-|0.01|20|48|882|882|Sunken Shrine 1
+White Shark|344|50|8|-|85.0|Bolt|Quake, Fire|1|126|-|0.01|8|36|600|2361|Sunken Shrine 1
+Deepeyes|304|30|16|-|78.0|Bolt|Quake, Fire|2|121|-|0.01|16|12|3591|3591|Sunken Shrine 1
+Sea Snake|224|35|12|-|58.0|Bolt|Quake, Fire|1|111|-|0.0|12|24|600|957|Sunken Shrine 1
+Sea Scorpion|148|35|18|-|42.5|Bolt|Quake, Fire|3|102|Poison|0.01|18|30|300|639|Sunken Shrine 1
+Sea Troll|216|40|20|-|55.0|Bolt|Quake|1|110|-|0.01|20|24|852|852|Sunken Shrine 1
+Ghost|180|93|30|-|42.5|Fire, Dia|Quake, Ice, Death, Confusion, Paralysis|1|106|Paralysis|0.01|30|18|990|990|Sunken Shrine 1
+Aquos|300|69|20|-|65.0|Ice|Quake, fire, Death, Confusion, Paralysis|1|117|-|0.01|20|36|800|1962|Sunken Shrine 1
+Water Naga|356|9|8|0.75|58.0|Bolt|Quake, Fire|1|119|Poison|0.01|8|36|2355|2355|Sunken Shrine 1
+Kraken|1800|50|60|-|80.0|Bolt|Quake, Fire|8|128|-|0.01|60|42|5000|4245|Sunken Shrine 2
+Tyrannosaur|600|115|10|-|100.0|None|None|1|155|-|0.15|10|30|600|7200|Forest 2
+Black Knight|260|44|38|-|67.5|None|None|2|116|-|0.01|38|18|1800|1263|Tower of Mirage
+Chimera|300|30|20|-|65.0|Ice|Quake, Fire|4|113|-|0.01|20|36|2500|2064|Tower of Mirage
+Guardian|200|25|40|-|55.0|Bolt|Death, Confusion, Paralysis|2|108|Paralysis|0.01|40|36|400|1224|Tower of Mirage
+Blue Dragon|454|92|20|-|100.0|None|Quake, Bolt|1|126|-|0.01|20|48|2000|3274|Tower of Mirage
+Green Dragon|352|72|16|-|100.0|Ice|Quake|1|117|-|0.01|16|48|5000|4068|Waterfall Cavern
+Stone Golem|200|70|16|0.38|55.0|None|Quake, Bolt, Ice, Fire, Death, Confusion, Paralysis|1|108|-|0.01|16|12|1000|2385|Flying Fortress 1
+Aeros|358|53|4|-|65.0|None|Quake, Death, Confusion, Paralysis|1|114|-|0.01|4|72|807|1614|Flying Fortress 1
+Spirit Naga|420|7|16|0.75|71.5|None|None|1|127|Poison|0.01|16|24|4000|3489|Flying Fortress 1
+Doom Knight|190|55|32|0.25|86.5|None|Death, Confusion, Paralysis|1|107|-|0.01|32|21|3000|2700|Flying Fortress 1
+Earth Medusa|96|11|12|-|35.0|Fire|Quake, Ice|10|96|Paralysis|0.01|12|36|1218|1218|Flying Fortress 1
+Dark Flan|156|49|255|-|42.5|Fire|Quake, Bolt, Ice, Death, Confusion, Paralysis|1|103|Poison|0.01|255|12|900|1101|Flying Fortress 1
+Soldier|400|102|48|-|80.0|Bolt|Quake, Ice, Fire, Death, Confusion, Paralysis|1|128|-|0.01|48|48|2000|4000|Flying Fortress 1
+Vampire Lord|300|90|28|0.25|42.0|Fire, Dia|Quake, Ice, Death, Confusion, Paralysis|1|104|Paralysis|0.01|28|36|3000|2385|Flying Fortress 1
+Dark Warrior|200|40|38|0.38|93.0|None|None|1|106|-|0.01|38|45|3420|3420|Flying Fortress 1
+Warmech|2000|128|80|-|100.0|None|Quake, Bolt, Ice, Fire, Death, Confusion, Paralysis|2|183|-|0.01|80|48|32000|32000|Flying Fortress 1
+Tiamat|2400|49|80|-|100.0|Stone|Quake, Bolt, Ice, Fire|4|123|-|0.01|80|36|6000|5496|Flying Fortress 2
+Rhyos|350|40|18|-|71.5|Ice|Quake, Fire|4|118|-|0.01|18|30|5000|4584|Temple of Chaos Past 1
+Death Eye|360|120|60|0.5|80.0|Fire, Dia|Quake, Ice, Death, Confusion, Paralysis|1|158|Paralysis|0.2|60|12|1|1|Temple of Chaos Past 1
+Purple Worm|448|65|10|-|100.0|None|Quake|1|139|-|0.05|10|18|1000|4344|Temple of Chaos Past 1
+Iron Golem|304|93|100|-|71.5|None|Quake, Ice, Fire, Death, Confusion, Paralysis|1|121|-|0.01|100|12|3000|6717|Temple of Chaos Past 1
+Lich 2|2800|50|50|0.75|70.0|Dia|Ice, Death, Confusion, Paralysis|1|115|Paralysis|0.01|50|24|1|2000|Temple of Chaos Past 1
+Marilith 2|3200|60|60|0.38|91.5|None|Bolt, Ice, Fire|6|115|-|0.01|60|30|1|2000|Temple of Chaos Past 1
+Kraken 2|3600|70|70|0.38|100.0|None|Quake, Fire|8|140|-|0.01|70|49|1|2000|Temple of Chaos Past 1
+Tiamat 2|5500|75|90|0.5|100.0|None|Quake, Bolt, Ice, Fire|4|126|-|0.01|90|45|1|2000|Temple of Chaos Past 1
+Chaos|20000|100|100|0.5|100.0|None|Resistant to all attributes|2|183|Paralysis|0.01|100|50|0|0|Temple of Chaos Past 2

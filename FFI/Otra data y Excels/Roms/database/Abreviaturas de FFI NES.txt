@@ -1,0 +1,17 @@
+Fi: Fighter/Warrior
+Kn: Knight
+
+Th: Thief
+Ni: Ninja
+
+RM: Red Mage
+RW: Red Wizard
+
+BB: Bl.(Black) Belt
+Ma: Master
+
+WM: White Mage
+WW: White Wizard
+
+BM: Black Mage
+BW: Black Wizard
